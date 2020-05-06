@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\KS200004\\.nuget\\packages\\",
         "outputPath": "D:\\其他vs项目文件\\demo\\StudentManagement\\StudentManagement\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\KS200004\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
